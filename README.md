@@ -47,3 +47,4 @@ Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/
    - Special cards like those in the game, or moves like swapping / connecting / severing
    - Extended cycle lengths (instead of mod 8 arithmetic) 
    - Directed graphs
+   - Custom scoring logic
