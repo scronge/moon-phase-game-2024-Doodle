@@ -2,7 +2,8 @@
 
 The clone of Google's moon phase game, just for fun. **UNDER DEVELOPMENT!**
 
-**DEMO**: [https://scronge.github.io/moon-phase-game/dist/index.html](https://scronge.github.io/moon-phase-game/dist/index.html)  
+This can be run with 'npx serve .' on a Github Codespace
+
 **Original Edition (Full Game)**: [https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
 
 ## Game Mechanics:
@@ -14,6 +15,8 @@ The clone of Google's moon phase game, just for fun. **UNDER DEVELOPMENT!**
   - Lunar cycle: Stars equal to the cycle's length.
   
 ## TODO:
-- Add intelligent computer plays.
-- Extend multiplayer support.
+- Fix two-player functionality
+- Embellishments
+- Extend multiplayer support
 - Support custom graph-based layouts.
+- Introduce computer players

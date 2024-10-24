@@ -3,6 +3,11 @@ let currentPlayer = 1;
 let playerHand = { 1: [], 2: [] };
 let grid = Array(4).fill(null).map(() => Array(4).fill(null)); // 4x4 empty grid
 
+let playerScores = {
+    1: 0, // Player 1's score
+    2: 0  // Player 2's score
+};
+
 // Initialize game
 function startGame() {
     drawCards(1); // Draw initial cards for Player 1
@@ -81,17 +86,16 @@ function displayBoard() {
 
 // Place card in chosen cell on the board
 function placeCardInCell(row, col) {
-    if (selectedCardIndex !== null && !grid[row][col]) { // Ensure a card is selected and the cell is empty
-        const card = playerHand[currentPlayer][selectedCardIndex]; // Get the selected card
-        grid[row][col] = { player: currentPlayer, phase: card }; // Place the card in the grid
-
-        playerHand[currentPlayer].splice(selectedCardIndex, 1); // Remove the selected card from the hand
-        selectedCardIndex = null; // Reset the selected card
-        displayBoard(); // Refresh the board
-        displayPlayerHand(currentPlayer); // Update hand
-
-        checkScoring(currentPlayer, row, col); // Check scoring
-        endTurn(); // Automatically switch turns after scoring
+    if (selectedCardIndex !== null && !grid[row][col]) {
+        console.log(`Player ${currentPlayer} placing card at row ${row}, col ${col}`);
+        const card = playerHand[currentPlayer][selectedCardIndex];
+        grid[row][col] = { player: currentPlayer, phase: card };
+        playerHand[currentPlayer].splice(selectedCardIndex, 1);
+        selectedCardIndex = null;
+        displayBoard();
+        displayPlayerHand(currentPlayer);
+        checkScoring(currentPlayer, row, col);
+        endTurn(); // Should trigger turn switch
     }
 }
 
@@ -137,12 +141,13 @@ function displayScores() {
 
 // End turn and switch player
 function endTurn() {
-    currentPlayer = currentPlayer === 1 ? 2 : 1; // Switch between Player 1 and Player 2
-    selectedCardIndex = null; // Reset selected card for the new player
-    drawCards(currentPlayer); // Ensure the new player has 3 cards
-    displayBoard(); // Refresh the board
-    displayPlayerHand(currentPlayer); // Show the current player's hand
-    updateTurnIndicator(); // Indicate the new player's turn
+    console.log(`Switching turn. Current player: ${currentPlayer}`);
+    currentPlayer = currentPlayer === 1 ? 2 : 1;
+    selectedCardIndex = null; 
+    drawCards(currentPlayer); 
+    displayBoard(); 
+    displayPlayerHand(currentPlayer); 
+    updateTurnIndicator(); 
 }
 
 
