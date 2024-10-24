@@ -24,19 +24,24 @@ Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/
   
 ## TODO:
 - Implement scoring logic
-   - Phase pair detection (same or complementary)
-   - Full moon cycles
+   - Phase pair and full moon detection
+   - Cycle detection (DFS, Johnson's Algorithm)
+   - Scoring card ownership
 - Visual embellishments
-   - Improve UI design with moon-themed elements
-- Mark ownership of cards played that scored points
-   - Indicate which player owns the cards on the board
+   - Improve UI design
+      - Cards
+      - Connections
 - Animations
    - Animate card placements and score updates
-- Extend multiplayer support (currently two)
+- Extend multiplayer support (currently two players)
    - Allow more than two players
 - Show all hands separately
-   - Display each player’s hand visibly
+   - Display each player’s hand separately
 - Support custom graph-based layouts for the board
    - Allow flexible board configurations
 - Introduce computer players
-   - Implement AI for solo play
+   - Implement non-random AI for solo play
+- Game extensions
+   - Special cards like those in the game, or moves like swapping / connecting / severing
+   - Extended cycle lengths (instead of mod 8 arithmetic) 
+   - Directed graphs
