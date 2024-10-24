@@ -24,6 +24,7 @@ Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/
   - Lunar cycle: Stars equal to the cycle's length.
   
 ## TODO:
+- Fix SVG numbering / moon phases
 - Implement scoring logic
    - Phase pair and full moon detection
    - Cycle detection (DFS, Johnson's Algorithm)
