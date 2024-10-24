@@ -1,4 +1,4 @@
-# Moon Phase Game (Bootleg Google Doodle)
+# Moon Phase Game (Inspired on a Google Doodle)
 
 The clone of Google's moon phase game, just for fun. **UNDER DEVELOPMENT!** 
 
