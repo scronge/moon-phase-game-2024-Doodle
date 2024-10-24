@@ -1,8 +1,13 @@
 # Moon Phase Game (Google Doodle Clone)
 
-The clone of Google's moon phase game, just for fun. **UNDER DEVELOPMENT!**
+The clone of Google's moon phase game, just for fun. **UNDER DEVELOPMENT!** 
+
+Minimal initial prototype completed in a few hours
 
 Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ 
+
+![image](https://github.com/user-attachments/assets/55859a13-a815-4dbc-ae53-0580e1990432)
+
 
 **Original Edition (Full Game)**: [https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
 
