@@ -2,7 +2,7 @@
 
 The clone of Google's moon phase game, just for fun. **UNDER DEVELOPMENT!**
 
-This can be run with 'npx serve .' on a Github Codespace
+Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ 
 
 **Original Edition (Full Game)**: [https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
 
