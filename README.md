@@ -15,8 +15,20 @@ Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/
   - Lunar cycle: Stars equal to the cycle's length.
   
 ## TODO:
-- Fix two-player functionality
-- Embellishments
-- Extend multiplayer support
-- Support custom graph-based layouts.
+- Implement scoring logic
+   - Phase pair detection (same or complementary)
+   - Full moon cycles
+- Visual embellishments
+   - Improve UI design with moon-themed elements
+- Mark ownership of cards played that scored points
+   - Indicate which player owns the cards on the board
+- Animations
+   - Animate card placements and score updates
+- Extend multiplayer support (currently two)
+   - Allow more than two players
+- Show all hands separately
+   - Display each player’s hand visibly
+- Support custom graph-based layouts for the board
+   - Allow flexible board configurations
 - Introduce computer players
+   - Implement AI for solo play
