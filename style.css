@@ -30,6 +30,10 @@ body {
     background-color: #f0f0f0;
 }
 
+.selected {
+    border: 2px solid red;
+}
+
 #player-hand {
     display: flex;
     gap: 10px;
@@ -38,4 +42,10 @@ body {
 #score-board {
     display: flex;
     gap: 20px;
+}
+
+#turn-indicator {
+    margin: 20px 0;
+    font-size: 18px;
+    font-weight: bold;
 }
