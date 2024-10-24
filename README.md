@@ -11,6 +11,9 @@ Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/
 
 **Original Edition (Full Game)**: [https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
 
+![image](https://github.com/user-attachments/assets/88f1608e-0a81-4de7-b270-c5510199d920)
+
+
 ## Game Mechanics:
 - **Players**: Two players take turns placing moon phase cards.
 - **Phases**: The phases follow a cycle from New Moon to Waning Crescent.
