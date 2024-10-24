@@ -7,6 +7,7 @@ Minimal initial prototype completed in a few hours
 Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ 
 
 ![image](https://github.com/user-attachments/assets/55859a13-a815-4dbc-ae53-0580e1990432)
+![image](https://github.com/user-attachments/assets/5b9e5fc1-abae-4079-8580-3be5352324bf)
 
 
 **Original Edition (Full Game)**: [https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
