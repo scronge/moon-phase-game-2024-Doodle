@@ -1,8 +1,8 @@
 # Moon Phase Game (Inspired on a Google Doodle)
 
-The crude implementation based on Google's moon phase game, just for fun and educational purposes. 
+A crude Javascript/HTML/CSS implementation based on Google's moon phase game, just for fun and educational purposes. 
 
-Minimal initial prototype completed in a few hours. **very rudimentary!** 
+Minimal initial prototype completed in a few hours. **very rudimentary prototype!** 
 
 Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ 
 
