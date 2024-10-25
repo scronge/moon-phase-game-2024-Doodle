@@ -43,7 +43,11 @@ Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/
 - Introduce computer players
    - Implement non-random AI for solo play
 - Game extensions
-   - Special cards like those in the game, or moves like swapping / connecting / severing
+   - Special cards like those in the game, or moves like swapping adjacent cards or connecting and severing nodes
    - Extended cycle lengths (instead of mod 8 arithmetic) 
    - Directed graphs
    - Custom scoring logic
+- Nice to haves
+   - When holding a card on top of a space, highlight their interactions
+   - When grabbing a card, highlight cells in which it would have a proper cycle placement
+   - Show overlay of all moon cycles achieved by the move 
