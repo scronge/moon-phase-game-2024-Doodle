@@ -2,7 +2,7 @@
 
 The crude implementation based on Google's moon phase game, just for fun and educational purposes. 
 
-Minimal initial prototype completed in a few hours. **UNDER DEVELOPMENT!** 
+Minimal initial prototype completed in a few hours. **very rudimentary!** 
 
 Try it at https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ 
 
