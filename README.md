@@ -2,7 +2,7 @@
 
 A very crude Javascript/HTML/CSS implementation based on Google's moon phase game, just for fun and educational purposes. 
 
-I was curious how much effort goes into a project like it so I made a minimal prototype in about three hours. Used ChatGPT so there's artifacts like wrong SVG order. Pull requests welcome for anyone willing to improve it.
+I was curious how much effort goes into a project like it so I made a minimal prototype with ChatGPT. Pull requests welcome for anyone willing to improve it, but there's no plan to continue developing it. 
 
 Try it at [https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ ](https://scronge.github.io/moon-phase-game-Oct-2024-Doodle/
 )
