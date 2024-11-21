@@ -12,7 +12,9 @@ Try it at [https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ ](h
 
 
 **Original Edition (Full Game)**: 
+
 [https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
+
 [https://doodles.google/doodle/rise-of-the-half-moon-november/](https://doodles.google/doodle/rise-of-the-half-moon-november/)
 
 
