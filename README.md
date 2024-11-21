@@ -2,6 +2,13 @@
 
 A very crude Javascript/HTML/CSS implementation based on Google's moon phase game, just for fun and educational purposes. 
 
+Here's the 
+**Original Game**: 
+
+[https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
+
+[https://doodles.google/doodle/rise-of-the-half-moon-november/](https://doodles.google/doodle/rise-of-the-half-moon-november/)
+
 I was curious how much effort goes into a project like it so I made a minimal prototype with ChatGPT. Pull requests welcome for anyone willing to improve it, but there's no plan to continue developing it. 
 
 Try it at [https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ ](https://scronge.github.io/moon-phase-game-Oct-2024-Doodle/
@@ -11,11 +18,7 @@ Try it at [https://scronge.github.io/moon-phase-game-Oct-2024-Google-Doodle/ ](h
 ![image](https://github.com/user-attachments/assets/5b9e5fc1-abae-4079-8580-3be5352324bf)
 
 
-**Original Edition (Full Game)**: 
 
-[https://doodles.google/doodle/rise-of-the-half-moon/](https://doodles.google/doodle/rise-of-the-half-moon/)
-
-[https://doodles.google/doodle/rise-of-the-half-moon-november/](https://doodles.google/doodle/rise-of-the-half-moon-november/)
 
 
 ## Game Mechanics:
