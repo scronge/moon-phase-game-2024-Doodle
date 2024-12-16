@@ -2,6 +2,8 @@
 
 A very crude Javascript/HTML/CSS implementation based on Google's moon phase game, just for fun and educational purposes. 
 
+I was very surprised ChatGPT can do this much in an hour!
+
 Here's the 
 **Original Game**: 
 
